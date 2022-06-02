@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tic-Tac Shooter
 
 You can use the [editor on GitHub](https://github.com/Nigel2B/tictacshooter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
